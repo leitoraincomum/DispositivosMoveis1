@@ -85,7 +85,6 @@ area = 3.14159 * (raio * raio)
 println("A área de circunferência é:  $area")
 }
 
-
 //09.Faça um programa na Linguagem Kotlin para efetuar o cálculo e a apresentação do valor de uma prestação em atraso, utilizando a fórmula PRESTAÇÃO <-- VALOR + (VALOR * (TAXA/100) * TEMPO).
 
 fun main(args: Array<String>) {
